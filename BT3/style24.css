@@ -1,0 +1,146 @@
+body{
+font-family: 'Oswald', sans-serif;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-link:hover{
+    text-decoration: line-through black;
+}
+.fgf{
+    background-image: url(https://wallpaperaccess.com/full/3389359.jpg);
+
+}
+.txt1{ 
+    width: 40%;
+    color: white;
+    display: flex;
+    text-align: center;
+    position: absolute;
+    top: 20%; left: 50%;
+}
+.maintxt{
+    width: 40%;
+    color: white;
+    display: flex;
+    text-align: center;
+    position: absolute;
+    bottom: 80%; left: 30%;
+}
+.secondtxt{
+    padding-top: 20%;
+   margin-right: 10%;
+}
+.card1{
+    position: absolute;
+    width:80% ;
+    height: 41%;
+    left: 12.5%;
+    margin-top: 40px;
+    backdrop-filter: blur(5px);
+   border: 2px solid;
+   
+}
+
+.img1{
+    height: 300px;
+    width: 220px;
+    
+    box-shadow: 0px 0px 4px 3px rgb(129, 129, 162, 0.5);
+    
+}
+.imgblock{
+    padding: 35px;
+}
+.img1:hover{
+    box-shadow: 0px 0px 4px 8px rgb(129, 129, 162, 0.5);
+    
+}
+.card{
+    height: 600px;
+ width: 360px;
+ margin-top: 30px;
+ box-shadow: 0px 0px 2px 3px rgb(129, 129, 162, 0.5);
+}
+
+.container{
+    
+    margin-top: 450px;
+}
+.card-img-top{
+    padding-top: 0px;
+    height: 150px;
+    width: 150px;
+}
+.card:hover{
+    height: 272.8px;
+    width: 396px;
+}
+.cont1{
+    margin-left: 6.25%;
+}
+.maincard1{
+    margin-top: 80px;
+    margin-bottom: 10px;
+    margin-left: 12.5%;
+    width: 75%;
+    height: max-content;
+    backdrop-filter: blur(5px);
+    box-shadow: 2px 2px 4px black;
+}
+.img10{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.img20{
+    padding-top: 10px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.img30{
+    padding-top: 10px;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;  
+}
+.blockimg1{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 4%;
+}
+.infomain{
+    width: 50%;
+    height: 80%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-right: 5%;
+    box-shadow: 2px 2px 4px black;
+}
+.txt10{
+    color: white;
+    width: 75%;
+    text-align: center;
+    margin-left: 12.5%;
+}
+.img40{
+    width: 50%;
+;
+    margin-left: 32.5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.btn{
+   
+    margin-left: 40%;
+   
+}
+.infomain:hover{
+    box-shadow: -2px -2px 4px rgb(57, 120, 136);
+    
+}
